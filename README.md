@@ -1,4 +1,4 @@
-This repository contains the source code for my personal resume and portfolio, hosted on GitHub Pages at:
+This repository contains the source code for my personal résumé and portfolio, hosted on GitHub Pages at:
 
 **https://sarahsexton.github.io/**
 
